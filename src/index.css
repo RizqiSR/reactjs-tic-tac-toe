@@ -43,6 +43,14 @@ h1 {
   max-height: 195px;
 }
 
+.status {
+  margin-bottom: 10px;
+}
+
+.game {
+  display: flex;
+}
+
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
